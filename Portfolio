@@ -17,35 +17,46 @@
     BY MARK MWAURA 
      license MIT
  
-     5/9/2021
+     Date 5/9/2021
 
 -->
     </head>
     <body>
+    <!--This is the Navigation of the page-->
         <div class="nav">
-            <a href="#"> home</a>
-            <a href="#">About</a>
-            <a href="#">Portfolio</a>
-            <a href="#">contacts</a>
+            <a href="#Home"> home</a>
+            <a href="#About">About</a>
+            <a href="#Portfolio">Portfolio</a>
+            <a href="#Contacts">contacts</a>
         </div>
+        
+        <hr>
+        <!--This is the COntent -->
        <h1> MARK.DEV</h1>
-       <p>I am A computer science student with Passion for Programming especially in web based technologies ,</p>
+       <p>I am A computer science student with Passion for Programming especially in web based technologies 
+       <br>I have had a fair share of experience in html and css coding with some projects to justify time spent <br>
+       coding ,I also am an intermediate in javascript and have some knowledge on sql programming. I have also done some  <br>
+       cool staff with c and now c++ programming and with time i am going to be a Leading Guru in the field God willing.
+       </p>
        <img src="mark.jpg" alt="Me">
+       
+       <hr>
+       <!--This is the footer or bottom secttion of the page-->
        <footer>
             <ul> 
                 <li>  
-                <a href="#"> Github</a>
+                <a href="https://github.com/calibrydev"> Github</a>
                 </li>
                 <li>
-                <a href="#"> Facebook</a>
+                <a href="https://www.facebook.com/calibrymarkas"> Facebook</a>
 
                 </li>
                 <li>
-                <a href="#"> Twitter</a>
+                <a href="https://www.twitter.com/Mkristu1"> Twitter</a>
 
                 </li>
                 <li>
-                <a href="#">Instagram</a>
+                <a href="https://www.instagram.com/Mkristu">Instagram</a>
 
                 </li>
             </ul>
